@@ -12,5 +12,7 @@ jekyll blog
 
 중요한 부분은 _site를 gitignore에 포함하지 않고 관리되도록 포함 되어야한다.
 
-그리고 source 브랜치에서 포스트 수정후 bundle exec jekyll serve 를 로컬에서 실행하여 _site에 파일을 빌드 후 수정 된 것을 완전히 커밋후
-bash publish.sh 를 실생하면 _site의 내용만 master 브랜치에 복사되어 push된다
+그리고 source 브랜치에서 포스트 수정후 bundle exec jekyll serve 를 로컬에서 실행하면_site에 파일을 빌드 되는데 
+그러면 URL localhost:4000으로 빌드된다.
+배포할 때는 반드시 bundle exec jekyll build로 빌드하여 URL이 https://theneooasis.github.io로 빌드되로록 한 후
+source 브랜치를 완전히 push 하고 bash publish.sh를 실행 _site의 내용만 master 브랜치에 복사되어 push된다
