@@ -71,7 +71,7 @@ username: theneooasis
 repo: theneooasis.github.io
 branch: master
 relative_source: ../
-#destination: ../jasper2-pages/
+destination: _site/
 production_url:  https://theneooasis.github.io/
 source_url:  https://github.com/theneooasis/theneooasis.github.io
 
