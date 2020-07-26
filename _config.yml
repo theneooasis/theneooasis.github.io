@@ -70,7 +70,7 @@ lsi: False
 username: theneooasis
 repo: theneooasis.github.io
 branch: master
-# relative_source: ../jasper2/
+relative_source: ../
 #destination: ../jasper2-pages/
 production_url:  https://theneooasis.github.io/
 source_url:  https://github.com/theneooasis/theneooasis.github.io
