@@ -1,3 +1,4 @@
+bundle exec jekyll build
 git checkout source
 git branch -D master
 git checkout -b master
