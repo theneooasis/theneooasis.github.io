@@ -14,13 +14,13 @@ author: theneooasis
 장르에 편견없이 여러장르의 음악들을 듣는 편이지만 아직도 Punk Rock은 좋아하는 장르중 하나인 장르입니다.
 역사가 오래된 장르이지만 세월이 변하면서 다양한 형태로 발전된 음악이기도 합니다.  
 
-## 태이나 처음 구입한 앨범 Green Day
+## 태어나 처음 구입한 앨범 Green Day
 처음으로 Punk Rock 장르의 앨범은 Green Day의 Dookie 앨범입니다. 대중적으로 성공한 밴드이기도 하지만
 앨범 자체도 신나는 곡들로 이루어진 듣기 쉬운 앨범이라고 생각합니다.
 ![green-day-dookie](assets/post-images/music/2020-07-26-punk-rock-history/green-day-dookie.jpg){: width="40%"}
 
 ## 90년대의 Punk Rock
-펑크락은 사실 영국의 Sex Pistols 활동 하던 70년대 부터 시작 했다고 말 할 수 있지만 전성기는 아무래도 90년대가 아닐 듯 싶습니다. 
+펑크락은 사실 영국의 Sex Pistols가 활동 하던 70년대 부터 시작 했다고 말 할 수 있지만 전성기는 아무래도 90년대가 아닐 듯 싶습니다. 
 Green Day가 활동하고 많은 펑크밴드들이 인기를 끌었습니다. Off Spring, Rancid 등 수많은 펑크 밴드들이 존재 했지만 아마도 이 세밴드가 가장 유명
 하지 않을까 합니다. 각각 다른 성향의 사운드를 가지고 있으니 들어 볼만합니다. 저는 개인적으로 Rancid를 제일 좋아합니다.
 

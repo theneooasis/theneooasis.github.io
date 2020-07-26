@@ -491,6 +491,13 @@ h6 {
     }
 }
 
-.youtube{
-    width: 70%;
+
+.youtube {
+    width: 80%;
+}
+
+@media screen and (max-width: 700px) {
+    .youtube {
+        width: 100%;
+    }
 }
