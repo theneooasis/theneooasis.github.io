@@ -25,7 +25,7 @@ Green Day가 활동하고 많은 펑크밴드들이 인기를 끌었습니다. O
 하지 않을까 합니다. 각각 다른 성향의 사운드를 가지고 있으니 들어 볼만합니다. 저는 개인적으로 Rancid를 제일 좋아합니다.
 
 <div class="youtube">
-    <iframe width="770" height="433" src="https://www.youtube.com/embed/CinJuVtdp3Y?v" frameborder="0" controls="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/CinJuVtdp3Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 </div>
 
 
