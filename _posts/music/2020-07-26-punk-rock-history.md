@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/post-images/music/2020-07-26-punk-rock-history/rancid-cover.jpg
 navigation: True
-title: 나의 Punk Rock 이야기
+title: 펑크락 추천 - 나의 Punk Rock 이야기
 date: 2020-07-26 00:00:00 +09:00:00
 tags: music
 class: post-template
@@ -25,7 +25,7 @@ Green Day가 활동하고 많은 펑크밴드들이 인기를 끌었습니다. O
 하지 않을까 합니다. 각각 다른 성향의 사운드를 가지고 있으니 들어 볼만합니다. 저는 개인적으로 Rancid를 제일 좋아합니다.
 
 <div class="youtube">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/CinJuVtdp3Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+    <iframe width="770" height="433" src="https://www.youtube.com/embed/CinJuVtdp3Y?v" frameborder="0" controls="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 </div>
 
 
@@ -69,7 +69,7 @@ Green Day가 활동하고 많은 펑크밴드들이 인기를 끌었습니다. O
 <div class="youtube">
     <iframe class="youtube" width="560" height="315" src="https://www.youtube.com/embed/D3sQzdLChG8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-최근에는 Sonic Stones는 밴드를 결성 했습니다. 사실 추죽인 이용원이 다른 멤버들과 새로 만든 밴드입니다. 사운드는 Yellow monsters와 비슷한 사운드를 들려 줍니다.
+최근에는 Sonic Stones를 결성 했습니다. 사실 추죽인 이용원이 다른 멤버들과 새로 만든 밴드입니다. 사운드는 Yellow monsters와 비슷한 사운드를 들려 줍니다.
 
 <div class="youtube">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/cE7OMEEwIIo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
