@@ -23,7 +23,7 @@ author: theneooasis
 ## 톡특한 목소리의 Motte
 차분하고 독특한 매력의 목소리를 들려주는 Motte의 음악은 보컬의 매력 만큼이나 음악 역시 차분한 감성이 나도 모르게 젖어 드는 느낌이 듭니다.
 
-
+<div class="youtube">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/7YecMYT8SEM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
