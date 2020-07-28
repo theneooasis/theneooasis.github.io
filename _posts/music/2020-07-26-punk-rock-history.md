@@ -6,6 +6,7 @@ navigation: True
 title: 펑크락 추천 - 나의 Punk Rock 이야기
 date: 2020-07-26 00:00:00 +09:00:00
 tags: music
+category: music
 class: post-template
 subclass: 'post'
 author: muzik

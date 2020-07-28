@@ -6,6 +6,7 @@ navigation: True
 title: 슈게이징(shoegazing) 그리고 Lo-Fi 인디락 추천
 date: 2020-07-27 01:00:00 +09:00:00
 tags: music
+category: music
 class: post-template
 subclass: 'post'
 author: muzik

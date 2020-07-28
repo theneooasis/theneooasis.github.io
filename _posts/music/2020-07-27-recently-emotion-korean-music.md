@@ -6,6 +6,7 @@ navigation: True
 title: 감성 충만 한국 음악 추천 - 시티팝 그외..
 date: 2020-07-27 00:00:00 +09:00:00
 tags: music
+category: music
 class: post-template
 subclass: 'post'
 author: muzik
