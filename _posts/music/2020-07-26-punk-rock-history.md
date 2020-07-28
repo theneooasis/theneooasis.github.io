@@ -8,7 +8,7 @@ date: 2020-07-26 00:00:00 +09:00:00
 tags: music
 class: post-template
 subclass: 'post'
-author: theneooasis
+author: muzik
 ---
 
 장르에 편견없이 여러장르의 음악들을 듣는 편이지만 아직도 Punk Rock은 좋아하는 장르중 하나인 장르입니다.

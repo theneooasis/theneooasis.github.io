@@ -8,7 +8,7 @@ date: 2020-07-27 00:00:00 +09:00:00
 tags: music
 class: post-template
 subclass: 'post'
-author: theneooasis
+author: muzik
 ---
 
 최근에 자주 듣는 감성 충만한 모트(Motte), 도시(dosii), adoy 등의 아티스트의 음악을 소개 합니다.

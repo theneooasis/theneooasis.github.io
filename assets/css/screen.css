@@ -448,7 +448,9 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 }
 
 .post-card-excerpt {
-    font-family: "Georgia", "Noto Sans KR",  sans-serif;
+    /* font-family: "Georgia", "Noto Sans KR",  sans-serif; */
+    font-family: "Roboto", "Spoqa Han Sans", sans-serif; 
+    font-weight: 300;
 }
 
 .post-card-meta {
@@ -625,7 +627,9 @@ The first (most recent) post in the list is styled to be bigger than the others 
     margin: 0 auto;
     padding: 70px 100px 0;
     min-height: 230px;
-    font-family: "Georgia", "Noto Sans KR",  sans-serif;
+    /* font-family: "Georgia", "Noto Sans KR",  sans-serif; */
+    font-family: "Roboto", "Spoqa Han Sans", sans-serif; 
+    font-weight: 300;
     font-size: 1.8rem;
     line-height: 1.6em;
     background: #fff;
@@ -745,7 +749,10 @@ The first (most recent) post in the list is styled to be bigger than the others 
     display: block;
     margin: 1.5em auto;
     max-width: 1040px;
+    box-shadow: 5px 5px 5px #8c8888;
+    border-radius: 5px;
 }
+
 @media (max-width: 700px) {
     .post-full-content img,
     .post-full-content video {
@@ -806,12 +813,14 @@ Usage (In Ghost editor):
 }
 
 .post-full-content code {
-    padding: 0 5px 2px;
-    font-size: 0.8em;
+    padding: 1px 5px;
+    /*font-size: 0.8em;*/
     line-height: 1em;
     font-weight: 400!important;
-    background: var(--whitegrey);
+    color: white;
+    background: #0985ef;
     border-radius: 3px;
+    font-family: "Roboto", "Spoqa Han Sans", sans-serif;
 }
 
 .post-full-content pre {
@@ -825,6 +834,7 @@ Usage (In Ghost editor):
     line-height: 1.5em;
     background: color(var(--darkgrey) l(-3%));
     border-radius: 5px;
+    box-shadow: 5px 5px 5px #8c8888;
 }
 
 .post-full-content pre code {
@@ -920,7 +930,9 @@ Usage (In Ghost editor):
     padding: 1em 0 1.5em;
     border: 0;
     color: var(--blue);
-    font-family: "Georgia", "Noto Sans KR",  sans-serif;
+    /* font-family: "Georgia", "Noto Sans KR",  sans-serif; */
+    font-family: "Roboto", "Spoqa Han Sans", sans-serif; 
+    font-weight: 300;
     font-size: 3.2rem;
     line-height: 1.35em;
     text-align: center;
@@ -1615,7 +1627,9 @@ Usage (In Ghost editor):
     justify-content: center;
     align-items: center;
     margin: 0 0 10px 0;
-    font-family: "Georgia", "Noto Sans KR",  sans-serif;
+    /* font-family: "Georgia", "Noto Sans KR",  sans-serif; */
+    font-family: "Roboto", "Spoqa Han Sans", sans-serif; 
+    font-weight: 300;
     font-style: italic;
 }
 
@@ -1754,7 +1768,9 @@ Usage (In Ghost editor):
 .subscribe-overlay-description {
     margin: 0 auto 50px;
     max-width: 650px;
-    font-family: "Georgia", "Noto Sans KR",  sans-serif;
+    /* font-family: "Georgia", "Noto Sans KR",  sans-serif; */
+    font-family: "Roboto", "Spoqa Han Sans", sans-serif; 
+    font-weight: 300;
     font-size: 3rem;
     line-height: 1.3em;
     font-weight: 300;

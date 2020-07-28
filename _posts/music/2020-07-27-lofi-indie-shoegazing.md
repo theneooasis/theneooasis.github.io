@@ -8,7 +8,7 @@ date: 2020-07-27 01:00:00 +09:00:00
 tags: music
 class: post-template
 subclass: 'post'
-author: theneooasis
+author: muzik
 ---
 
 슈게이징 밴드 마이블러디발렌타인(my boody valentine), The pains of being pure at heart 그리고 Lo-Fi 인디록 밴드
