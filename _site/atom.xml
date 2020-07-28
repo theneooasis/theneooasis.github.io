@@ -3,7 +3,7 @@
   <channel>
     <title> - Articles</title>
     <description>세상의 모든 것을 리뷰 하다.</description>
-    <link>http://localhost:4000</link>
+    <link>https://theneooasis.github.io</link>
     
       
       <item>
@@ -16,8 +16,8 @@ Pavement, Yuck 등등 뮤지선들의 음악을 소개 합니다.&lt;/p&gt;
         
         <pubDate>Mon, 27 Jul 2020 01:00:00 +0900</pubDate>
         <link>
-        http://localhost:4000/music/2020/07/27/lofi-indie-shoegazing/</link>
-        <guid isPermaLink="true">http://localhost:4000/music/2020/07/27/lofi-indie-shoegazing/</guid>
+        https://theneooasis.github.io/music/2020/07/27/lofi-indie-shoegazing/</link>
+        <guid isPermaLink="true">https://theneooasis.github.io/music/2020/07/27/lofi-indie-shoegazing/</guid>
       </item>
       
     
@@ -31,8 +31,8 @@ Pavement, Yuck 등등 뮤지선들의 음악을 소개 합니다.&lt;/p&gt;
         
         <pubDate>Mon, 27 Jul 2020 00:00:00 +0900</pubDate>
         <link>
-        http://localhost:4000/music/2020/07/27/recently-emotion-korean-music/</link>
-        <guid isPermaLink="true">http://localhost:4000/music/2020/07/27/recently-emotion-korean-music/</guid>
+        https://theneooasis.github.io/music/2020/07/27/recently-emotion-korean-music/</link>
+        <guid isPermaLink="true">https://theneooasis.github.io/music/2020/07/27/recently-emotion-korean-music/</guid>
       </item>
       
     
@@ -47,8 +47,8 @@ Pavement, Yuck 등등 뮤지선들의 음악을 소개 합니다.&lt;/p&gt;
         
         <pubDate>Sun, 26 Jul 2020 00:00:00 +0900</pubDate>
         <link>
-        http://localhost:4000/music/2020/07/26/punk-rock-history/</link>
-        <guid isPermaLink="true">http://localhost:4000/music/2020/07/26/punk-rock-history/</guid>
+        https://theneooasis.github.io/music/2020/07/26/punk-rock-history/</link>
+        <guid isPermaLink="true">https://theneooasis.github.io/music/2020/07/26/punk-rock-history/</guid>
       </item>
       
     
