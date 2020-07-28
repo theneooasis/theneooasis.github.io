@@ -9,6 +9,7 @@ tags: music
 class: post-template
 subclass: 'post'
 author: muzik
+
 ---
 
 슈게이징 밴드 마이블러디발렌타인(my boody valentine), The pains of being pure at heart 그리고 Lo-Fi 인디록 밴드
@@ -45,7 +46,7 @@ Seam 이란 밴드는 한국인이 멤버로 있는 밴드입니다. Lo-Fi 인�
     <iframe width="560" height="315" src="https://www.youtube.com/embed/eoUvWiko27A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### 개인적으로 가장 좋아하는 밴드 The pains of being pure at heart
+### 개인적으로 가장 좋아하는 밴드 The pains of being pure at heart.
 슈게이징의 느낌을 아주 잘 살린 밴드이지만 동시에 곡들이 멜로디 감성이 아주 좋은 밴드 입니다. Higher Than The Stars 라는 곡은 청아한 느낌의 감성이 돋보이는 곡입니다.
 <div class="youtube">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/I4yhyNgr0jo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
