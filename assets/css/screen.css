@@ -630,7 +630,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
     /* font-family: "Georgia", "Noto Sans KR",  sans-serif; */
     font-family: "Roboto", "Spoqa Han Sans", sans-serif; 
     font-weight: 300;
-    font-size: 1.7rem;
+    font-size: 1.6rem;
     line-height: 1.6em;
     background: #fff;
 }
@@ -796,8 +796,9 @@ Usage (In Ghost editor):
 
 .post-full-content blockquote {
     margin: 0 0 1.5em;
-    padding: 0 1.5em;
+    padding: 0.8em 1.5em 0.8em 1.5em;
     border-left: #3eb0ef 3px solid;
+    background-color:#f1f5f5;
 }
 
 .post-full-content blockquote p {
@@ -805,7 +806,17 @@ Usage (In Ghost editor):
     color: inherit;
     font-size: inherit;
     line-height: inherit;
-    font-style: italic;
+    /* font-style: italic; */
+}
+
+/* 오버라이드 */
+.post-full-content blockquote ul {
+    margin: 0 0 0 0;
+}
+
+/* 오버라이드 */
+.post-full-content blockquote ol {
+    margin: 0 0 0 0;
 }
 
 .post-full-content blockquote p:last-child {
@@ -833,7 +844,6 @@ Usage (In Ghost editor):
     font-size: 1.4rem;
     line-height: 1.5em;
     background: color(var(--darkgrey) l(-3%));
-    border-radius: 5px;
     box-shadow: 5px 5px 5px #8c8888;
 }
 
