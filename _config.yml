@@ -24,7 +24,7 @@ subscribers: false # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
 twitter: theneooasis # replace by your username
-facebook: theneooasis.rock.5 # replace by your username
+facebook: theneooasis # replace by your username
 email: theneooasis@gmail.com
 
 # Disqus
