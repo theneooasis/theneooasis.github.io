@@ -18,7 +18,7 @@ author: muzik
 ## 태어나 처음 구입한 앨범 Green Day
 처음으로 Punk Rock 장르의 앨범은 Green Day의 Dookie 앨범입니다. 대중적으로 성공한 밴드이기도 하지만
 앨범 자체도 신나는 곡들로 이루어진 듣기 쉬운 앨범이라고 생각합니다.
-![green-day-dookie](assets/post-images/music/2020-07-26-punk-rock-history/green-day-dookie.jpg){: width="40%"}
+![green-day-dookie](/assets/post-images/music/2020-07-26-punk-rock-history/green-day-dookie.jpg){: width="40%"}
 
 ## 90년대의 Punk Rock
 펑크락은 사실 영국의 Sex Pistols가 활동 하던 70년대 부터 시작 했다고 말 할 수 있지만 전성기는 아무래도 90년대가 아닐 듯 싶습니다. 
