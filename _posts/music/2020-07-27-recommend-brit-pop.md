@@ -19,7 +19,7 @@ author: muzik
 
 ### Chvrches
 여성 보컬의 일렉트로니카 밴드 입니다. 청아한 목소리와 감성적인 멜로디 일렉트로니카 사운드가 조화로운 밴드입니다.
-활동한지 10년도 더 된 밴드이기 하지만 아직도 즐겨 듣는 밴드 이기도 합니다.
+활동한지 10년도 더 된 밴드이기도 하지만 아직도 즐겨 듣는 밴드이기도 합니다.
 <div class="youtube">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/LDSVLQoPc8w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -32,7 +32,7 @@ author: muzik
 </div>
 
 ### Arctic Monkeys
-캐러지 리바이벌이라는 스타일의 음악이 2000년대 부터 유행 하기 시작했는데 제일 화끈한 스타일의 밴드라고 생각합니다. 
+게러지 리바이벌이라는 스타일의 음악이 2000년대 부터 유행 하기 시작했는데 제일 화끈한 스타일의 밴드라고 생각합니다. 
 이런 스타일의 밴드 중에 개인적으로 제일 좋아하는 밴드이기도 합니다.
 <div class="youtube">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/30w8DyEJ__0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
