@@ -1,3 +1,4 @@
+cp .gitignore _site
 git checkout source
 git branch -D master
 git checkout -b master
