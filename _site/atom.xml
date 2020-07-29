@@ -1,56 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title> - Articles</title>
+    <title>theneooasis</title>
     <description>세상의 모든 것을 리뷰 하다.</description>
-    <link>https://theneooasis.github.io</link>
+    <link>https://theneooasis.github.io//</link>
+    <atom:link href="https://theneooasis.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 29 Jul 2020 16:00:29 +0900</pubDate>
+    <lastBuildDate>Wed, 29 Jul 2020 16:00:29 +0900</lastBuildDate>
+    <generator>Jekyll v3.7.4</generator>
     
-      
       <item>
         <title>슈게이징(shoegazing) 그리고 Lo-Fi 인디락 추천</title>
-        
-          <description>&lt;p&gt;슈게이징 밴드 마이블러디발렌타인(my boody valentine), The pains of being pure at heart 그리고 Lo-Fi 인디록 밴드
-Pavement, Yuck 등등 뮤지선들의 음악을 소개 합니다.&lt;/p&gt;
-
-</description>
-        
+        <description>슈게이징 밴드 마이블러디발렌타인(my boody valentine), The pains of being pure at heart 그리고 Lo-Fi 인디록 밴드 Pavement, Yuck 등등 뮤지선들의 음악을 소개 합니다. 슈게이징의 상징 My Boody Valentine 슈게이징은 영국에서 1990년대초까지 인디 씬을</description>
         <pubDate>Mon, 27 Jul 2020 01:00:00 +0900</pubDate>
-        <link>
-        https://theneooasis.github.io/music/2020/07/27/lofi-indie-shoegazing/</link>
-        <guid isPermaLink="true">https://theneooasis.github.io/music/2020/07/27/lofi-indie-shoegazing/</guid>
+        <link>https://theneooasis.github.io//music/2020/07/27/lofi-indie-shoegazing/</link>
+        <guid isPermaLink="true">https://theneooasis.github.io//music/2020/07/27/lofi-indie-shoegazing/</guid>
+        
+        <category>music</category>
+        
+        
+        <category>music</category>
+        
       </item>
-      
     
-      
       <item>
         <title>감성 충만 한국 음악 추천 - 시티팝 그외..</title>
-        
-          <description>&lt;p&gt;최근에 자주 듣는 감성 충만한 모트(Motte), 도시(dosii), adoy 등의 아티스트의 음악을 소개 합니다.&lt;/p&gt;
-
-</description>
-        
+        <description>최근에 자주 듣는 감성 충만한 모트(Motte), 도시(dosii), adoy 등의 아티스트의 음악을 소개 합니다. 감성 돋다.. 개인적으로 음악을 듣는 것이 좋은 이유는 음악에 감성이 묻어 있고 그 음악을 들으면 자연스럽게 그 감성에 동화되어 나도</description>
         <pubDate>Mon, 27 Jul 2020 00:00:00 +0900</pubDate>
-        <link>
-        https://theneooasis.github.io/music/2020/07/27/recently-emotion-korean-music/</link>
-        <guid isPermaLink="true">https://theneooasis.github.io/music/2020/07/27/recently-emotion-korean-music/</guid>
+        <link>https://theneooasis.github.io//music/2020/07/27/recently-emotion-korean-music/</link>
+        <guid isPermaLink="true">https://theneooasis.github.io//music/2020/07/27/recently-emotion-korean-music/</guid>
+        
+        <category>music</category>
+        
+        
+        <category>music</category>
+        
       </item>
-      
     
-      
       <item>
         <title>펑크락 추천 - 나의 Punk Rock 이야기</title>
-        
-          <description>&lt;p&gt;장르에 편견없이 여러장르의 음악들을 듣는 편이지만 아직도 Punk Rock은 좋아하는 장르중 하나인 장르입니다.
-역사가 오래된 장르이지만 세월이 변하면서 다양한 형태로 발전된 음악이기도 합니다.&lt;/p&gt;
-
-</description>
-        
+        <description>장르에 편견없이 여러장르의 음악들을 듣는 편이지만 아직도 Punk Rock은 좋아하는 장르중 하나인 장르입니다. 역사가 오래된 장르이지만 세월이 변하면서 다양한 형태로 발전된 음악이기도 합니다. 태어나 처음 구입한 앨범 Green Day 처음으로 Punk Rock 장르의</description>
         <pubDate>Sun, 26 Jul 2020 00:00:00 +0900</pubDate>
-        <link>
-        https://theneooasis.github.io/music/2020/07/26/punk-rock-history/</link>
-        <guid isPermaLink="true">https://theneooasis.github.io/music/2020/07/26/punk-rock-history/</guid>
+        <link>https://theneooasis.github.io//music/2020/07/26/punk-rock-history/</link>
+        <guid isPermaLink="true">https://theneooasis.github.io//music/2020/07/26/punk-rock-history/</guid>
+        
+        <category>music</category>
+        
+        
+        <category>music</category>
+        
       </item>
-      
     
   </channel>
 </rss>
