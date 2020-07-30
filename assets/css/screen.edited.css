@@ -162,3 +162,20 @@ td.code {
     }
 }
 
+/* github comment  */
+.utterances {
+    max-width: 100%;
+}
+
+.fluid-width-video-container {
+    width: 80% !important;
+}
+
+
+@media screen and (max-width: 700px) {
+    .fluid-width-video-container {
+        width: 100% !important;
+    }
+}
+
+

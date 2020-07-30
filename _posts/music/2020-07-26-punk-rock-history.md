@@ -25,40 +25,40 @@ author: muzik
 Green Day가 활동하고 많은 펑크밴드들이 인기를 끌었습니다. Off Spring, Rancid 등 수많은 펑크 밴드들이 존재 했지만 아마도 이 세밴드가 가장 유명
 하지 않을까 합니다. 각각 다른 성향의 사운드를 가지고 있으니 들어 볼만합니다. 저는 개인적으로 Rancid를 제일 좋아합니다.
 
-<div class="youtube">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/CinJuVtdp3Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CinJuVtdp3Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
 
 
 ## 2000년대의 Punk Rock
 2000년대로 접어 들면서 Punk Rock도 스타일이 약간씩 변하게 됩니다. 멜로디가 더 추가 되고 더욱더 신나는 느낌으로 발전하고
 사운드적인 특징이라면 일렉기타의 팝뮤트 주법 대신 하모닉스 주법을 활용한 리프가 유행하게 됩니다. 개인적으로는 더 시원한 사운드 느낌을 받습니다. 대표적으로는 Blink 182가 되겠습니다.
-<div class="youtube">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/vVy9Lgpg1m8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vVy9Lgpg1m8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 그리고 Good Charlotte라는 밴드도 시원한 사운드를 들려 줍니다
-<div class="youtube">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/desJKYvdq9A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/desJKYvdq9A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 캐나다 출신의 밴드 Sum 41도 엄청난 인기를 얻은 밴드 입니다.
-<div class="youtube">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/PEz2d49XTk0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PEz2d49XTk0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## 일본의 Punk Rock 밴드
 일본은 지금도 여전히 그런지 모르겠지만 미국 다음으로 큰 음악시장이라고 합니다. 그만큼 유명한 밴드들도 많고 일본의 특유의 특징이 가미된 장르의 Rock 음악도 믾습니다. 펑크락도 유명한 밴드들이 많지만 개인적으로 ellegarden을 제일 좋아합니다 시원하고 아주 멜로디가 좋은 
 펑크락을 들려 주기 때문입니다.
-<div class="youtube">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/fjtIvAbhZEA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fjtIvAbhZEA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 그리고 펑크락이라고 장르를 한정짖기 어려운 부분이 있지만 초기 앨범은 펑크락 적인 요소가 많은 밴드 인 asian kung fu generation도 좋아하는 밴드 입니다.
 
-<div class="youtube">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/ZmeudwRMrsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZmeudwRMrsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 두 밴드들의 음악을 들어보시면 느끼시겠지만 일본 특유의 느낌이 묻어 있는 사운드 특징이 있습니다
 
@@ -67,14 +67,14 @@ Green Day가 활동하고 많은 펑크밴드들이 인기를 끌었습니다. O
 우리나라에도 Punk Rock 밴드가 있습니다. 가장 유명한 밴드들은 크라잉넛과 노브레인이 아닌가 싶네요 오랜 활동으로 대중적인 인지도도 비교적 높은 밴드입니다. 90년대 홍대 인디씬을 대중들에게 알리는데도 큰 역할을 한 밴드들이라고 개인적인 생각이 들기도 합니다.
 몇년 전까지 활동하다가 해체한 Yellow Monsters를 좋아합니다. 엄청나가 하드한 리프가 특징인 펑크 밴드입니다 스래쉬 메탈 적인 요소가
 리프에 가미된 사운드라고 이야기 할 수 있습니다.
-<div class="youtube">
-    <iframe class="youtube" width="560" height="315" src="https://www.youtube.com/embed/D3sQzdLChG8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+
+<iframe class="youtube" width="560" height="315" src="https://www.youtube.com/embed/D3sQzdLChG8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 최근에는 Sonic Stones를 결성 했습니다. 사실 추죽인 이용원이 다른 멤버들과 새로 만든 밴드입니다. 사운드는 Yellow monsters와 비슷한 사운드를 들려 줍니다.
 
-<div class="youtube">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/cE7OMEEwIIo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cE7OMEEwIIo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## 마무리
 개인적으로 좋아하는 밴드 위주로 펑크락 밴드들을 알아 보았습니다.
