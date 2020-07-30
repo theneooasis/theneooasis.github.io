@@ -81,6 +81,9 @@ source_url:  https://github.com/theneooasis/theneooasis.github.io
 
 future: True
 
+include:
+  - .gitignore
+
 exclude:
   - assets/css
   - node_modules
