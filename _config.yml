@@ -1,7 +1,8 @@
 # Jekyll configuration
 markdown: kramdown
 highlighter: rouge
-paginate: 100 # it will paginate after this number
+infinite_scroll: true
+paginate: 20 # it will paginate after this number
 language: 'kr'
 words_per_minute: 200
 
