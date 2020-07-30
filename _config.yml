@@ -45,10 +45,13 @@ permalink: pretty
 
 # gems and other configs
 plugins_dir: [_plugins]
-plugins: [jekyll-paginate, jekyll-feed]
 
-feed:
-  path: feed.xml
+# plugins: [jekyll-paginate, jekyll-feed]
+
+# feed:
+#   path: feed.xml
+# 오버라이드 함
+plugins: [jekyll-paginate]
 
 # Additional settings available on the front-matter
 # Site logo in the index.html (as in demo.ghost.io)

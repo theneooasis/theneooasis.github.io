@@ -1,43 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<feed xmlns="http://www.w3.org/2005/Atom" >
-  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="https://theneooasis.github.io/tag/music/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="https://theneooasis.github.io/" rel="alternate" type="text/html" />
-  <updated>2020-07-30T15:16:16+09:00</updated>
-  <id>https://theneooasis.github.io/tag/music/feed.xml</id>
-
-  
-  
-  
-
-  
-    <title type="html">theneooasis | </title>
-  
-
-  
-    <subtitle>세상의 모든 것을 리뷰 하다.</subtitle>
-  
-
-  
-
-  
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>theneooasis</title>
+    <description>세상의 모든 것을 리뷰 하다.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 30 Jul 2020 17:08:53 +0900</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2020 17:08:53 +0900</lastBuildDate>
+    <generator>Jekyll v3.7.4</generator>
     
-      
-    
-  
-
-  
-  
-
-  
-    <entry>
-      <title type="html">헤비메탈 추천 - 개인적으로 좋아하는 헤비메탈 밴드들</title>
-      <link href="https://theneooasis.github.io/music/2020/07/30/recommend-metal/" rel="alternate" type="text/html" title="헤비메탈 추천 - 개인적으로 좋아하는 헤비메탈 밴드들" />
-      <published>2020-07-30T00:00:00+09:00</published>
-      <updated>2020-07-30T00:00:00+09:00</updated>
-      <id>https://theneooasis.github.io/music/2020/07/30/recommend-metal</id>
-      <content type="html" xml:base="https://theneooasis.github.io/music/2020/07/30/recommend-metal/">&lt;p&gt;개인적으로 좋아하는 The Mad Capsule Markets, Slipknot, Pantera, 등등의 메탈 밴드들을 소개 합니다.&lt;/p&gt;
+      <item>
+        <title>헤비메탈 추천 - 개인적으로 좋아하는 헤비메탈 밴드들</title>
+        <description>
+        &lt;img src="http://localhost:4000/assets/post-images/music/2020-07-30-recommend-metal/cover.jpg"  style="max-width:100%" /&gt; &lt;br/&gt; 
+        &lt;p&gt;개인적으로 좋아하는 The Mad Capsule Markets, Slipknot, Pantera, 등등의 메탈 밴드들을 소개 합니다.&lt;/p&gt;
 
 &lt;h2 id=&quot;헤비메탈&quot;&gt;헤비메탈&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -111,43 +87,24 @@
 &lt;/div&gt;
 
 &lt;h3 id=&quot;끝으로&quot;&gt;끝으로&lt;/h3&gt;
-&lt;p&gt;헤비메탈은 마이너한 장르이면서도 매니아가 많은 장르 입니다. 스래쉬 메탈 부터 데스메탈 블랙메탈 뉴메탈 등등 수많은 하위 장르가 존재하기도 하죠 2000년대 이후 뉴메탈 밴드들을 잘아시는 분들은 댓글로 추천도 부탁드립니다.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>mzk.soul</name>
+&lt;p&gt;헤비메탈은 마이너한 장르이면서도 매니아가 많은 장르 입니다. 스래쉬 메탈 부터 데스메탈 블랙메탈 뉴메탈 등등 수많은 하위 장르가 존재하기도 하죠 2000년대 이후 뉴메탈 밴드들을 잘아시는 분들은 댓글로 추천도 부탁드립니다.&lt;/p&gt;
+        </description>
+        <pubDate>Thu, 30 Jul 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000//music/2020/07/30/recommend-metal/</link>
+        <guid isPermaLink="true">http://localhost:4000//music/2020/07/30/recommend-metal/</guid>
+        
+        <category>music</category>
         
         
-      </author>
-
-      
-        <category term="music" />
-      
-
-      
-        <category term="music" />
-      
-
-      
-        <summary type="html">개인적으로 좋아하는 The Mad Capsule Markets, Slipknot, Pantera, 등등의 메탈 밴드들을 소개 합니다.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">브릿팝 추천 - 개인적으로 좋아하는 브릿팝</title>
-      <link href="https://theneooasis.github.io/music/2020/07/29/recommend-brit-pop/" rel="alternate" type="text/html" title="브릿팝 추천 - 개인적으로 좋아하는 브릿팝" />
-      <published>2020-07-29T16:00:00+09:00</published>
-      <updated>2020-07-29T16:00:00+09:00</updated>
-      <id>https://theneooasis.github.io/music/2020/07/29/recommend-brit-pop</id>
-      <content type="html" xml:base="https://theneooasis.github.io/music/2020/07/29/recommend-brit-pop/">&lt;p&gt;개인적으로 좋아하는 브릿팝 밴드들을 소개합니다.&lt;/p&gt;
+        <category>music</category>
+        
+      </item>
+    
+      <item>
+        <title>브릿팝 추천 - 개인적으로 좋아하는 브릿팝</title>
+        <description>
+        &lt;img src="http://localhost:4000/assets/post-images/music/2020-07-29-recommend-brit-pop/cover.jpg"  style="max-width:100%" /&gt; &lt;br/&gt; 
+        &lt;p&gt;개인적으로 좋아하는 브릿팝 밴드들을 소개합니다.&lt;/p&gt;
 
 &lt;h2 id=&quot;브릿팝&quot;&gt;브릿팝&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -195,43 +152,24 @@
 
 &lt;h3 id=&quot;그외&quot;&gt;그외&lt;/h3&gt;
 &lt;p&gt;oasis, radiohead, the verve, travis, coldplay 등등 매우 유명한 수많은 밴드들도 있지만 워낙 유명해서 제외 합니다.&lt;br /&gt;
-근래 들을만한 영국 음악이 있다면 댓글로 추천 부탁드립니다.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>mzk.soul</name>
+근래 들을만한 영국 음악이 있다면 댓글로 추천 부탁드립니다.&lt;/p&gt;
+        </description>
+        <pubDate>Wed, 29 Jul 2020 16:00:00 +0900</pubDate>
+        <link>http://localhost:4000//music/2020/07/29/recommend-brit-pop/</link>
+        <guid isPermaLink="true">http://localhost:4000//music/2020/07/29/recommend-brit-pop/</guid>
+        
+        <category>music</category>
         
         
-      </author>
-
-      
-        <category term="music" />
-      
-
-      
-        <category term="music" />
-      
-
-      
-        <summary type="html">개인적으로 좋아하는 브릿팝 밴드들을 소개합니다.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">슈게이징(shoegazing) 그리고 Lo-Fi 인디락 추천</title>
-      <link href="https://theneooasis.github.io/music/2020/07/27/lofi-indie-shoegazing/" rel="alternate" type="text/html" title="슈게이징(shoegazing) 그리고 Lo-Fi 인디락 추천" />
-      <published>2020-07-27T01:00:00+09:00</published>
-      <updated>2020-07-27T01:00:00+09:00</updated>
-      <id>https://theneooasis.github.io/music/2020/07/27/lofi-indie-shoegazing</id>
-      <content type="html" xml:base="https://theneooasis.github.io/music/2020/07/27/lofi-indie-shoegazing/">&lt;p&gt;슈게이징 밴드 마이블러디발렌타인(my boody valentine), The pains of being pure at heart 그리고 Lo-Fi 인디록 밴드
+        <category>music</category>
+        
+      </item>
+    
+      <item>
+        <title>슈게이징(shoegazing) 그리고 Lo-Fi 인디락 추천</title>
+        <description>
+        &lt;img src="http://localhost:4000/assets/post-images/music/2020-07-27-lofi-indie-shoegazing/cover.jpg"  style="max-width:100%" /&gt; &lt;br/&gt; 
+        &lt;p&gt;슈게이징 밴드 마이블러디발렌타인(my boody valentine), The pains of being pure at heart 그리고 Lo-Fi 인디록 밴드
 Pavement, Yuck 등등 뮤지선들의 음악을 소개 합니다.&lt;/p&gt;
 
 &lt;h2 id=&quot;슈게이징의-상징-my-boody-valentine&quot;&gt;슈게이징의 상징 My Boody Valentine&lt;/h2&gt;
@@ -287,43 +225,24 @@ Pavement, Yuck 등등 뮤지선들의 음악을 소개 합니다.&lt;/p&gt;
 로파이적인 사운드를 추구하지만 곡에 멜로디는 여전히 빼놓지 않는군요&lt;/p&gt;
 &lt;div class=&quot;youtube&quot;&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/NypJm7mQLGw&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>mzk.soul</name>
+&lt;/div&gt;
+        </description>
+        <pubDate>Mon, 27 Jul 2020 01:00:00 +0900</pubDate>
+        <link>http://localhost:4000//music/2020/07/27/lofi-indie-shoegazing/</link>
+        <guid isPermaLink="true">http://localhost:4000//music/2020/07/27/lofi-indie-shoegazing/</guid>
+        
+        <category>music</category>
         
         
-      </author>
-
-      
-        <category term="music" />
-      
-
-      
-        <category term="music" />
-      
-
-      
-        <summary type="html">슈게이징 밴드 마이블러디발렌타인(my boody valentine), The pains of being pure at heart 그리고 Lo-Fi 인디록 밴드 Pavement, Yuck 등등 뮤지선들의 음악을 소개 합니다.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">감성 충만 한국 음악 추천 - 시티팝 그외..</title>
-      <link href="https://theneooasis.github.io/music/2020/07/27/recently-emotion-korean-music/" rel="alternate" type="text/html" title="감성 충만 한국 음악 추천 - 시티팝 그외.." />
-      <published>2020-07-27T00:00:00+09:00</published>
-      <updated>2020-07-27T00:00:00+09:00</updated>
-      <id>https://theneooasis.github.io/music/2020/07/27/recently-emotion-korean-music</id>
-      <content type="html" xml:base="https://theneooasis.github.io/music/2020/07/27/recently-emotion-korean-music/">&lt;p&gt;최근에 자주 듣는 감성 충만한 모트(Motte), 도시(dosii), adoy 등의 아티스트의 음악을 소개 합니다.&lt;/p&gt;
+        <category>music</category>
+        
+      </item>
+    
+      <item>
+        <title>감성 충만 한국 음악 추천 - 시티팝 그외..</title>
+        <description>
+        &lt;img src="http://localhost:4000/assets/post-images/music/2020-07-27-recently-emotion-korean-music/cover.jpg"  style="max-width:100%" /&gt; &lt;br/&gt; 
+        &lt;p&gt;최근에 자주 듣는 감성 충만한 모트(Motte), 도시(dosii), adoy 등의 아티스트의 음악을 소개 합니다.&lt;/p&gt;
 
 &lt;h2 id=&quot;감성-돋다&quot;&gt;감성 돋다..&lt;/h2&gt;
 &lt;p&gt;개인적으로 음악을 듣는 것이 좋은 이유는 음악에 감성이 묻어 있고 그 음악을 들으면 자연스럽게 그 감성에 동화되어 나도 모르게 감성을 느끼고 있다는
@@ -358,43 +277,24 @@ Pavement, Yuck 등등 뮤지선들의 음악을 소개 합니다.&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&quot;마무리&quot;&gt;마무리&lt;/h2&gt;
-&lt;p&gt;혹시나 소개해줄 뮤지션이 있다면 댓글로 공유 해주시면 감사 하겠습니다.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>mzk.soul</name>
+&lt;p&gt;혹시나 소개해줄 뮤지션이 있다면 댓글로 공유 해주시면 감사 하겠습니다.&lt;/p&gt;
+        </description>
+        <pubDate>Mon, 27 Jul 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000//music/2020/07/27/recently-emotion-korean-music/</link>
+        <guid isPermaLink="true">http://localhost:4000//music/2020/07/27/recently-emotion-korean-music/</guid>
+        
+        <category>music</category>
         
         
-      </author>
-
-      
-        <category term="music" />
-      
-
-      
-        <category term="music" />
-      
-
-      
-        <summary type="html">최근에 자주 듣는 감성 충만한 모트(Motte), 도시(dosii), adoy 등의 아티스트의 음악을 소개 합니다.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">펑크락 추천 - 나의 Punk Rock 이야기</title>
-      <link href="https://theneooasis.github.io/music/2020/07/26/punk-rock-history/" rel="alternate" type="text/html" title="펑크락 추천 - 나의 Punk Rock 이야기" />
-      <published>2020-07-26T00:00:00+09:00</published>
-      <updated>2020-07-26T00:00:00+09:00</updated>
-      <id>https://theneooasis.github.io/music/2020/07/26/punk-rock-history</id>
-      <content type="html" xml:base="https://theneooasis.github.io/music/2020/07/26/punk-rock-history/">&lt;p&gt;장르에 편견없이 여러장르의 음악들을 듣는 편이지만 아직도 Punk Rock은 좋아하는 장르중 하나인 장르입니다.
+        <category>music</category>
+        
+      </item>
+    
+      <item>
+        <title>펑크락 추천 - 나의 Punk Rock 이야기</title>
+        <description>
+        &lt;img src="http://localhost:4000/assets/post-images/music/2020-07-26-punk-rock-history/rancid-cover.jpg"  style="max-width:100%" /&gt; &lt;br/&gt; 
+        &lt;p&gt;장르에 편견없이 여러장르의 음악들을 듣는 편이지만 아직도 Punk Rock은 좋아하는 장르중 하나인 장르입니다.
 역사가 오래된 장르이지만 세월이 변하면서 다양한 형태로 발전된 음악이기도 합니다.&lt;/p&gt;
 
 &lt;h2 id=&quot;태어나-처음-구입한-앨범-green-day&quot;&gt;태어나 처음 구입한 앨범 Green Day&lt;/h2&gt;
@@ -457,34 +357,18 @@ Green Day가 활동하고 많은 펑크밴드들이 인기를 끌었습니다. O
 &lt;/div&gt;
 
 &lt;h2 id=&quot;마무리&quot;&gt;마무리&lt;/h2&gt;
-&lt;p&gt;개인적으로 좋아하는 밴드 위주로 펑크락 밴드들을 알아 보았습니다.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>mzk.soul</name>
+&lt;p&gt;개인적으로 좋아하는 밴드 위주로 펑크락 밴드들을 알아 보았습니다.&lt;/p&gt;
+        </description>
+        <pubDate>Sun, 26 Jul 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000//music/2020/07/26/punk-rock-history/</link>
+        <guid isPermaLink="true">http://localhost:4000//music/2020/07/26/punk-rock-history/</guid>
+        
+        <category>music</category>
         
         
-      </author>
-
-      
-        <category term="music" />
-      
-
-      
-        <category term="music" />
-      
-
-      
-        <summary type="html">장르에 편견없이 여러장르의 음악들을 듣는 편이지만 아직도 Punk Rock은 좋아하는 장르중 하나인 장르입니다. 역사가 오래된 장르이지만 세월이 변하면서 다양한 형태로 발전된 음악이기도 합니다.</summary>
-      
-
-      
-      
-    </entry>
-  
-</feed>
+        <category>music</category>
+        
+      </item>
+    
+  </channel>
+</rss>
