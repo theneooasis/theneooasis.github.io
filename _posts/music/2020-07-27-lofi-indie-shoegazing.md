@@ -22,7 +22,7 @@ Pavement, Yuck 등등 뮤지선들의 음악을 소개 합니다.
 슈게이징이라는 장르하면 떠오르는 밴드는 단연코 My Boody Valentine인 것 같습니다. 슈케이징이 뭐야 라고 물으면 My Boody Valentine음악을
 들으면 아~ 이런게 슈게이징이구나 하고 느낄 수 있을 테니까요 슈게이징이라는 음악장으로 넓게 보면 Post Rock이라는 범주에 들어가기도 합니다.
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Dq76B2sDpFA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dq76B2sDpFA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > 그리고 저는 슈게이징하면 떠오느는 이미지는 바로 Fender의 Jazz Master 일렉기타 입니다. 지글지글한 퍼즈가 슈게이징 사운드를 정의 하는 것 같습니다.
 

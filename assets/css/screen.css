@@ -312,6 +312,10 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     height: 1.5rem;
 }
 
+.social-link-gh svg {
+    height: 1.8rem;
+}
+
 .social-link-wb svg {
     height: 1.6rem;
 }
@@ -630,7 +634,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
     /* font-family: "Georgia", "Noto Sans KR",  sans-serif; */
     font-family: "Roboto", "Spoqa Han Sans", sans-serif; 
     font-weight: 300;
-    font-size: 1.7rem;
+    font-size: 1.6rem;
     line-height: 1.6em;
     background: #fff;
 }
@@ -640,9 +644,9 @@ The first (most recent) post in the list is styled to be bigger than the others 
         padding: 5vw 7vw 0;
     }
 }
-@media (max-width: 800px) {
+@media (max-width: 700px) {
     .post-full-content {
-        /* font-size: 1.9rem; */
+        /* font-size: 1.7rem; */
     }
 }
 
@@ -823,7 +827,7 @@ Usage (In Ghost editor):
     margin-bottom: 0;
 }
 
-.post-full-content code {
+.post-full-content code.highlighter-rouge {  
     padding: 1px 5px;
     /*font-size: 0.8em;*/
     line-height: 1em;
@@ -843,8 +847,13 @@ Usage (In Ghost editor):
     color: var(--whitegrey);
     font-size: 1.4rem;
     line-height: 1.5em;
-    background: color(var(--darkgrey) l(-3%));
     box-shadow: 5px 5px 5px #8c8888;
+    background: #011627 !important; 
+    border-radius: 8px; 
+    font-family: 'Cousine', monospace;
+    @media only screen and (max-width: 550px) {
+      font-size: 1.3rem !important
+    }
 }
 
 .post-full-content pre code {
@@ -1951,4 +1960,9 @@ Usage (In Ghost editor):
     .site-footer-nav a:first-child {
         margin-left: 0;
     }
+}
+
+/* github comment  */
+.utterances {
+    max-width: 100%;
 }
