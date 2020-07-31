@@ -12,7 +12,7 @@ subclass: 'post'
 author: muzik
 ---
 
-개인적으로 좋아하는 일렉트로니카 신스팝 뮤지션 Glen Check, From The Air Port, Chvrches, Prodigy등을 소개합니다.
+개인적으로 좋아하는 일렉트로니카 신스팝 뮤지션 Glen Check, From The Airport, Chvrches, Prodigy등을 소개합니다.
 
 
 ## 일렉트로니카
@@ -30,7 +30,7 @@ author: muzik
 
 > 요즘은 뭐하는지 모르겠네요 활동 안한지 오래되었습니다....
 
-### From The Air Port
+### From The Airport
 정말 취향 저격 밴드입니다. Glen Check 모던락 + 일렉트로니카 라면 감성적인 락 + 일렉트로니카 느낌이라고 할까요. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xUIiw4e49tg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
