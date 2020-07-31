@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/post-images/music/2020-07-31-recommend-electronica/cover.jpg
 navigation: True
-title: 일렉트로니카 신디팝 추천 - 개인적으로 좋아하는 일렉트로니카 신디팝 뮤지션들
+title: 일렉트로니카 신스팝 추천 - 개인적으로 좋아하는 일렉트로니카 신스팝 뮤지션들
 date: 2020-07-31 00:00:00 +09:00:00
 tags: music
 category: music
