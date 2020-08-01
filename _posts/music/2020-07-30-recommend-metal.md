@@ -35,7 +35,6 @@ author: muzik
 말이 필요 없습니다 메탈 = Pantera 라고 저는 생각합니다.(많은 분들은 Metalica라고 하시겠지만)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y4pOIndfTzI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 ### Korn
 우리나에서 하드코어라는 장르명으로 알려진 음악을 들려주는 대표밴드입니다. 하드코어라는 장르가 아니라고 그냥 뉴메탈이 맞다고 하죠
@@ -54,7 +53,6 @@ korn과 deftones와 coal chamber등에 연명하고 많은 CD가 실패를 거�
 밴드 였습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xDdGrlylcEU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
 ### Slipknot
